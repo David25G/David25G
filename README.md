@@ -1,7 +1,9 @@
+![hello_there](https://github.com/user-attachments/assets/c85f4363-6f64-4ca6-9948-87c3d7df3f78)
+
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A new Junior GRC Analist from Spain</h3>
-
 <p> 
+
 
 # Cybersecurity professional with a focus on Governance, Risk and Compliance (GRC). 
 Interested in technology risk management, regulatory compliance, and information security governance in enterprise environments.
